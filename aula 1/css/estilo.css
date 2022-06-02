@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(95, 200, 200, 0.548);
+    height: 100vh;
+    display: flex; justify-content: center;align-items: center;
+}
+main{
+    text-align: center;
+    margin: auto auto;
+    background-color: rgba(95, 91, 91, 0.637);
+    width: 300px;
+    height: 400px;
+
+}
